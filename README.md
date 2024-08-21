@@ -1,4 +1,5 @@
 ﻿# Customer-Churn-Prediction
+ ## Tran Thi Ky Phuong - Sunny 
 **1. Introduction:**
 
 *Customer churn prediction is a critical aspect of business management, particularly for industries like telecommunications, internet service providers, pay TV companies, insurance firms, and alarm monitoring services. It involves understanding and addressing customer attrition, which refers to the loss of clients or customers.*
@@ -21,3 +22,4 @@
 - *active_member*: These numerical values show whether an account is active or not, represented as either 1 or 0 respectively.
 - *estimated_ salary*: This is the average annual salary received into the account.
 - *churn*: This field shows if the customer is still with the bank or not, represented by either 0 or 1 respectively
+  
