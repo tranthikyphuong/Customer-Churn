@@ -1,5 +1,5 @@
 ﻿# Customer-Churn-Prediction
- ## Tran Thi Ky Phuong - Sunny 
+ ## Tran Thi Ky Phuong
 **1. Introduction:**
 
 *Customer churn prediction is a critical aspect of business management, particularly for industries like telecommunications, internet service providers, pay TV companies, insurance firms, and alarm monitoring services. It involves understanding and addressing customer attrition, which refers to the loss of clients or customers.*
